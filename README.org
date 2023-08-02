@@ -1,0 +1,6 @@
+
+Pros of approach:
+- Text is temporary, and its not saved.
+
+Limitations of current overlay-based approach:
+- Cannot directly edit insertions
